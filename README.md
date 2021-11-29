@@ -4,7 +4,7 @@
    * 포건시 다운로드 주소 : https://www.grapecity.co.kr/download/forguncy
 
 2. Github에서 주소를 복사하십시오.
-  ![](/github-images/collborationwork-01.png)
+  ![](/readme-images/collborationwork-01.png)
   
 3. 포건시에서 고급 > 프로젝트 열기를 선택하십시오.
 
