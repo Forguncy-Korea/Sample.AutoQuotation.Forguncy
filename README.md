@@ -1,6 +1,6 @@
 # 포건시 자동 견적서 샘플 사용 방법
 
-1. 포건시를 다운로드 하십시오.
+1. 포건시를 다운로드 하고 설치하십시오.
    * 포건시 다운로드 주소 : https://www.grapecity.co.kr/download/forguncy
 
 <br>
@@ -10,7 +10,7 @@
 
 <br>
 
-3. 포건시에서 고급 > 프로젝트 열기를 선택하십시오.<br>
+3. 포건시에서 [ 고급 > 프로젝트 열기 ] 를 선택하십시오.<br>
   ![](/readme-images/collborationwork-02.png)
  
 <br>
