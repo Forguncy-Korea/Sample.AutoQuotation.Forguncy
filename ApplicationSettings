@@ -1,9 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ApplicationSettings>
+  <AuditingList class="System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]" assembly="mscorlib">
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>FGC_QT_Properties</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+    <Item class="CommonUtilities.KeyValue" assembly="CommonUtilities">
+      <Key type="System.String">
+        <Value>FGC_Quotation</Value>
+      </Key>
+      <Value type="System.Int32">
+        <Value>0</Value>
+      </Value>
+    </Item>
+  </AuditingList>
   <IntegrateWithOtherApplication>
     <Password>6nY%sx8P@0@w</Password>
   </IntegrateWithOtherApplication>
-  <StartPage>Step1_포건시-견적서-신청</StartPage>
+  <MaxRowCount>10000000</MaxRowCount>
+  <NotAllowModifyDatabaseByJsApi>False</NotAllowModifyDatabaseByJsApi>
+  <StartDateFiscalYear>4</StartDateFiscalYear>
   <UserServicePort>52801</UserServicePort>
   <WebSitePort>61887</WebSitePort>
 </ApplicationSettings>

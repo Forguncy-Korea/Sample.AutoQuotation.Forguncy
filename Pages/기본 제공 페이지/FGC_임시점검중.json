@@ -1,1 +1,70 @@
-{"Rows":{"Count":18},"Cols":{"Count":29},"Values":{"3,1":"웹사이트 임시 점검 중입니다. 나중에 다시 방문하여 주십시오.","8,1":"현재 사이트 업데이트 관계로 접속하실 수 없습니다. 잠시 후 다시 시도하여 주십시오.","12,1":"이용에 불편을 드려 죄송합니다."},"StyleDatas":{"Styles":[{"FontSize":32.0,"Foreground":0,"Formatter":1,"HorizontalAlignment":2},{"FontSize":22.666666030883789,"Foreground":3,"Formatter":1,"WordWrap":true},{"FontFamily":4,"FontSize":22.666666030883789,"Foreground":3,"Formatter":1,"WordWrap":true}],"Types":{"Strs":["Text 1 35","[AUTO]General","Center","Text 1 25","Body"]},"CellStyles":{"3,1":0,"8,1":1,"12,1":2},"SheetStyle":{"FontFamily":4}},"Spans":["3,1,3,27","12,1,4,27","8,1,4,27"],"PageInfo":{"$type":"Forguncy.Model.Pages.NormalPage, ServerDesignerCommon","MobilePageName":"FGC_임시점검중_모바일","Title":"유지보수","RowBreakLines":[],"RepeatRangeSettings":[],"IsBuiltInPage":true},"PrintInfo":{"Margin":{},"PaperSize":{}}}//8g+ctHk4fOcYsZBhJ4InBGyfBfdsFxyex9ws2piLg7L9toyJtgD3ktAuLvqVZAC6PfA7Edsqp4lo7Zw+Kyu8RF5CWTH4TufhE76GCrexZG8J43zqyO5oYENBfRLEhQ7GeyahmiHiBwmlvBLAznFn4pwt5qTvkJqpoFF2+hpylSuO3/NUp8brjA4f0/20qumaIuixcakteBg0xybTm9Jatkrn080nATVZ2bnKhZwjKarSCurPCGLEaBW9VP17CrDmD4GJKV+kbOM1hN1aB8FLocJnw14RnNnYq1k9cG2WT90VC3p0eb0EP35O6ZnPoJaEOkHK2ca3YefFdXQRohbCUZdFFZBC9yUutgTkoRkpsw6EJOiaOvcATI+c1qcaBO3WQ32j/y65kYIhHLRWLVNV+9MxhjNOipnOYsrtItDI0mvpIgxlQRWMde1cxWtkB4VTFTu19c9vfzlFEJ7q8iw7Ih2pwTbZ0+JyvfiE8ZieRQDwHAPPpXu0cEzv9hjQNMUTh7WvrNhMIwHQu0L0kNnsWCI8NGcAvix+xVzIKYwyoZR96H8XGUHcHJeNhKob8gJO0W+i82inS2WNIRWO1MJ0bNHnCxZpcBzlI5DItXMrdCGs1RnrWwsTThBHISGT0uXr1kBQ2ATh4p89pUAXezBrVr5+OwZG2aAuNOh2Uf7S0jofizF6R0EINQDupYsT1ucj9qaCkB6dTbvIRGWxM9ABsth8c3b6Pd/FsmSfuZ7W4aracmqnHlgJQqF13AgnMoUKOE5p9x+ShPn4u635WuY7RXln6u4qa3OUc59/WrGURxfPgP7tYr6nv0Vdfqvu0GrjcPPicyIGk/SQFbF0fvCUPJdwUmmLnBnbYDvICblmJnmOcORUwHbe2+MM929EB7EHaKE1qpMZeu/ii1NpDZ+65A==|920
+{
+  "Rows": {
+    "Count": 18
+  },
+  "Cols": {
+    "Count": 29
+  },
+  "Values": {
+    "3,1": "웹사이트 임시 점검 중입니다. 나중에 다시 방문하여 주십시오.",
+    "8,1": "현재 사이트 업데이트 관계로 접속하실 수 없습니다. 잠시 후 다시 시도하여 주십시오.",
+    "12,1": "이용에 불편을 드려 죄송합니다."
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontSize": 32.0,
+        "Foreground": 0,
+        "Formatter": 1,
+        "HorizontalAlignment": 2
+      },
+      {
+        "FontSize": 22.666666030883789,
+        "Foreground": 3,
+        "Formatter": 1,
+        "WordWrap": true
+      },
+      {
+        "FontFamily": 4,
+        "FontSize": 22.666666030883789,
+        "Foreground": 3,
+        "Formatter": 1,
+        "WordWrap": true
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Text 1 35",
+        "[AUTO]General",
+        "Center",
+        "Text 1 25",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "3,1": 0,
+      "8,1": 1,
+      "12,1": 2
+    },
+    "SheetStyle": {
+      "FontFamily": 4
+    }
+  },
+  "Spans": [
+    "3,1,3,27",
+    "12,1,4,27",
+    "8,1,4,27"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MobilePageName": "FGC_임시점검중_모바일",
+    "Title": "유지보수",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsBuiltInPage": true
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//oKw23J1pdXKNECJg9SnvvG//tfzUiJo9Omw5Anvu7JPGsP0HE8dNyc8fOLmA0PMsvLXOvjt/k6b4Cq0X0cTbiBNE2+qG8FqP9SLbYCcK/Vj4UOYV17TnSgTqPkcRMLDSbyp0jFzFMN5tfBljrSLocUFfcXdu3JDDZHfms1dU0cF+34ebq23q23O6eMwB33gFS9Y4jfU32znG8aAzLdaU8fH81PqKI8gc6ebM0W795/IeQv3X+rVh9xEBZqOoLkfIZqrtw1SYStTgvHuMcZyS8g/OG2w+k2JJlm0TRQAn9JEoog6KhEY/5/lSUO4x5vEIA7dvAVj2qKYy1iVdjo7aatQRrsUIpk966GSWCV/ePAQSEotCVdjnvPJkngkn39PGaxcfR0R3TUSk3sCzq4r8Vba6bOsf7pUKnos7ApHEEAjkFdTe/ZutAU1xdqXEmnwvaEM/Hs4NKk5eOPC67QaP4srOpoWoY4y90mmjS1NtQI8muQvhEb5SrM8ilkxrR5WQ1Rq35rsVkYgEkEx/ly0JYfsWSyW89iDd8VJEPog/Pe1KdnUJG1FCc1V5TGpeQI09sMRXSbQbKoMRDRAxOYudON6r5J81LAKknIdVcSmVqB2Vnvv0aP9wNMZ7iUqMsr9wQ0QTdmNMHaF4tWwoLDDBewAZnG1uiOtDyAX4OJFuX0/tn4j1zuExMhq8yendTVyUDehPMffU6y/Ab5TOiFFc29Qt33ECL4ycIEMhm6jQJMdYQL2O4Fj6ugPq68K1rJ371imYwCGoncKj1r3rvhq/5NYMMSptNm+wEGS7grQD08fDewVJUTZsUjNNPKXkMbJjVqpC2uhwYnluA/SBgLh9CeSFzzjRKkcRX1UXRifg1Vm2w+Es6xXtPzkbxPndjXfeT0ERjs117wAok/fFKsvJag==|920
