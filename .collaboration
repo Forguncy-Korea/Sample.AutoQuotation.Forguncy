@@ -107,55 +107,19 @@
   },
   {
     "ModuleName": "PCPage/Step1_포건시-견적서-신청",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "Forguncy-Korea",
-      "Email": "jake.park@grapecity.com"
-    },
-    "LockDateTime": "2022-01-27T15:59:46.4988718+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Step1_포건시-견적서-신청.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/Step2_포건시-견적-신청-완료",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "Forguncy-Korea",
-      "Email": "jake.park@grapecity.com"
-    },
-    "LockDateTime": "2022-01-27T15:59:46.4988718+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Step2_포건시-견적-신청-완료.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/Step3_Sales_견적 신청 처리",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "Forguncy-Korea",
-      "Email": "jake.park@grapecity.com"
-    },
-    "LockDateTime": "2022-01-27T15:59:46.4988718+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Step3_Sales_견적 신청 처리.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/Step4_Sales_견적 신청 전체 보기",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "Forguncy-Korea",
-      "Email": "jake.park@grapecity.com"
-    },
-    "LockDateTime": "2022-01-27T15:59:46.4998669+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Step4_Sales_견적 신청 전체 보기.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_유저마스터페이지",
